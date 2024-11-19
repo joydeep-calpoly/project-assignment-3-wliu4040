@@ -40,7 +40,11 @@ class FormatInformation {
 	private List<Article> accept(JSONParser parser, Logger logger) throws IOException {
 		return parser.visit(this, logger);
 	}
-	
+	/**
+	 * Retrieves the content at the specified location.
+	 *
+	 * @return String containing the contents retrieved from FormatInformation
+	 */
 	String getContent() throws IOException {
 		if(source == UserSource.FILE) {
 			return Files.readString(Paths.get(location));
