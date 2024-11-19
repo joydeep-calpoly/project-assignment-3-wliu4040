@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "title": "123",
+      "description": "abc",
+      "url": "asd",
+      "publishedAt": "321"
+    }
+  ]
+}

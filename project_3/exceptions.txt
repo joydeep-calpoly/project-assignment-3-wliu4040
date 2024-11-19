@@ -1,0 +1,2 @@
+Nov 18, 2024 5:50:26 PM proj1.NewsParser parse
+WARNING: Error encountered: proj1.Article@f107c50

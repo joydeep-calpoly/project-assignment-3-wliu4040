@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "title": "123",
+      "description": null,
+      "url": "asd",
+      "publishedAt": "2021-03-24T22:32:00Z"
+    },
+    {
+      "title": "abc",
+      "description": "drm",
+      "url": "123",
+      "publishedAt": "2021-03-24T22:32:00Z"
+    },
+    {
+      "title": "abc",
+      "description": "123",
+      "url": "drm",
+      "publishedAt": "2021-03-24T22:32:00Z"
+    },
+    {
+      "title": "abc",
+      "description": null,
+      "url": "123",
+      "publishedAt": "2021-03-24T22:32:00Z"
+    }
+  ]
+}
